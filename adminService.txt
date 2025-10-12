@@ -1,3 +1,4 @@
 add and remove to the users
 changes the rule
 manage the database
+closing the connection
